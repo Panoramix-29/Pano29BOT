@@ -21,4 +21,4 @@ async def cv(ctx):
 
 
 
-bot.run('NzU1Nzk3NzY4MzMyNjQwMjU3.X2Ihhg.YZEl2preuNBdDGEtdC6nvbLhjFU')
+bot.run('https://discord.com/developers/applications')
